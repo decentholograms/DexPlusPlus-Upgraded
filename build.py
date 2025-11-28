@@ -27,6 +27,8 @@ for filename in files:
 embedStr = embedStr + "}"
 embedStr = embedStr + "\n" + readfile("main.lua")
 
-file = open("out.lua","w")
+file = open("out.lua","w", encoding="utf-8")
 file.write(embedStr)
 file.close()
+
+print("Build completed successfully! Output: out.lua")
