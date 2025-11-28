@@ -8,7 +8,7 @@ files = os.listdir("modules")
 
 
 def readfile(path):
-    file = open(path,"r")
+    file = open(path, "r", encoding="utf-8")
     str = file.read()
     file.close()
     return str
