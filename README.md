@@ -7,7 +7,7 @@ Dex++ is a maintained revival of Moon's Dex, made to fulfill some Moon's Dex pro
 ```lua
 loadstring(game:HttpGet("https://github.com/decentholograms/DexPlusPlus-Upgraded/releases/download/dexplusplus/out.lua"))()
 ```
-For specific versions, go to [releases](https://github.com/decentholograms/DexPlusPlus/releases).
+For specific versions, go to [releases](https://github.com/decentholograms/DexPlusPlus-Upgraded/releases/tag/dexplusplus).
 
 ## What's the difference between Dex and Dex++?
 Since the original Dex is the last release and Moon have discontinued it, it still has some missing features.
