@@ -1,6 +1,6 @@
 --[[ 
     Script Viewer App Module (Advanced Build)
-    Includes: Improved dump + "Fix Code" button"
+    Includes: Improved dump + "Fix Code" button
 ]]
 
 local Main,Lib,Apps,Settings
