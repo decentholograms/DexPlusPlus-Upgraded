@@ -5,9 +5,9 @@ Dex++ is a maintained revival of Moon's Dex, made to fulfill some Moon's Dex pro
 
 ## Latest Version Script
 ```lua
-loadstring(game:HttpGet("https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua"))()
+loadstring(game:HttpGet("https://github.com/decentholograms/DexPlusPlus-Upgraded/releases/download/dexplusplus/out.lua"))()
 ```
-For specific versions, go to [releases](https://github.com/AZYsGithub/DexPlusPlus/releases).
+For specific versions, go to [releases](https://github.com/decentholograms/DexPlusPlus/releases).
 
 ## What's the difference between Dex and Dex++?
 Since the original Dex is the last release and Moon have discontinued it, it still has some missing features.
@@ -32,15 +32,6 @@ Here are the features that were added/fixed in Dex++
 
 ## About Dex Roadmap
 The concept of the Dex roadmap is amazing, however neither me nor Moon have the ability to fulfil the full roadmap. I did have added few stuffs in my fork but mostly of them are beyond my limit and i did this project for fun.
-
-## Our Discord Server
-https://discord.gg/ndhGeSGkWn
-
-## Donation
-Every donation is highly apreciated, this is compeletely optional.
-- 113mGk11Hz7KoHmVhffMhFRGGt4xyofsn6 (BTC)
-- 0xf66604a05c5a5372b1480a0b79f86865dccbd7db (BNB)
-- 0xf66604a05c5a5372b1480a0b79f86865dccbd7db (ETH)
 
 ## Third Party Components
 - Konstant Decompiler (Let me know)
